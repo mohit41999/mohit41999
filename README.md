@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mohit41999
-- 👀 I’m interested in Software Enginnering and Softwware Development. 
+- 👀 I’m interested in Software Enginnering and Software Development. 
 - 🌱 A motivated learner also interested in Data Analysis and Visualization
 - 💞️ Mobile Application Development using flutter and Dart is one of my Strong skill.
 - 📫 How to reach me Github: mohit41999, Email: mohit41999@gmail.com
